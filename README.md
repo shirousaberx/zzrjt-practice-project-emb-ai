@@ -1,2 +1,4 @@
 # coding-project-template
-This repo is for the practice project which is to be based on Embedded AI libraries. 
+all done
+
+in this project, we practice building sentiment analyzer using IBM watson
